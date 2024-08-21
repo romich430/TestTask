@@ -1,0 +1,28 @@
+{
+    "name": "OneSignal.UnityPackage.Attribution",
+    "rootNamespace": "",
+    "references": [
+        "OneSignal.Core",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.onesignal.unity.core",
+            "expression": "5.1.7",
+            "define": "ONE_SIGNAL_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}
